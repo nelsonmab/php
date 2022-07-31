@@ -1,3 +1,3 @@
 <?php
-echo "TESTE ";
+echo "RENOVAMNDO PHP ";
 ?>
